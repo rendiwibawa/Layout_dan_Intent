@@ -1,7 +1,7 @@
 # Intent & Layout
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://images.samsung.com/is/image/samsung/assets/id/p6_gro2/p6_initial_pcd/p6_initial_mobile/feature_benefit_kv_galaxy_m.png?$ORIGIN_PNG$">
+	<img align="right" src="https://cdn.pixabay.com/photo/2016/07/30/19/33/smartphone-1557796_1280.png">
 </a>
 
 ### 🌱 Macam-macam Layout?
