@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BasicApp_Intent_Layout</string>
+    <string name="soal1">Bebek apa yang kakinya 2 ?.</string>
+    <string name="soal2">Sapi Minum ?.</string>
+    <string name="soal3">2 Hal yang ingin kamu miliki sekarang ?.</string>
+    <string name="linear">LinearLayout adalah view group (subclass dariViewGroup) yang memberikan layout child view dalam orientasi vertical atau horizontal, seperti halnya ditentukan dengan atribut android:orientation. Setiap child dari LinearLayoutmuncul pada layar dengan urutan seperti tertulis dalam XML.\n \n  Dua atribut lainnya, android:layout_widthdanandroid:layout_height, dibutuhkan untuk seluruh views dalam rangka untuk menentukan ukurannya.\n \n  Karena LinearLayoutadalah root view dalam layout, maka ini akan mengisi seluruh area layar yang tersedia dengan menseting width dan height menjadi \"match_parent\". Nilai ini mendeklarasikan bahwa view akan meng-expand secara width atau height menjadi cocok (sesuai) dengan width atau height dari parent view.</string>
+    <string name="relative">Relative Layout adalah layout yang penataan nya ini adalah penataan yang menempatkan widget-widget didalamnya seperti layer, sehingga sebuah widget dapat berada di atas/di bawah widget lainnya atau dengan kata lain Relative merupakan layout yang penataannya lebih bebas (Relative) sehingga bisa di tata di mana saja.</string>
+</resources>
