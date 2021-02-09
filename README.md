@@ -20,8 +20,9 @@ berkaitan.
 adalah sebuah ViewGroup yang dapat kita gunakan untuk menyusun View kita. 
 Ini lebih fleksibel tanpa adanya nested layout. Seperti menggunakan RelativeLayout 
 di mana semua tampilan ditata seperti sibling views dan parent layout, 
-tetapi lebih fleksibel dibandingkan dengan RelativeLayout. Ini juga lebih mudah 
-digunakan dengan Layout Editor Android Studio.
+tetapi lebih fleksibel dibandingkan dengan 
+RelativeLayout. 
+Ini juga lebih mudah digunakan dengan Layout Editor Android Studio.
 
 ### 🤳 Macam macam method dan urutan livecycle.
 - 🎇Method onCreate()
