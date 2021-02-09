@@ -1,7 +1,7 @@
 # Intent & Layout
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.eea.europa.eu%2Fmobile%2Fandroid-coming-soon%2Fimage_view_fullscreen&psig=AOvVaw39f5p_fGvTdBGj6ussHt8Y&ust=1612971189707000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDloomQ3e4CFQAAAAAdAAAAABAD">
+	<img align="right" src="https://www.eea.europa.eu/mobile/android-coming-soon/image">
 </a>
 
 ### 🌱 Macam-macam Layout?
