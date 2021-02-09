@@ -22,7 +22,7 @@ Ini lebih fleksibel tanpa adanya nested layout. Seperti menggunakan RelativeLayo
 di mana semua tampilan ditata seperti sibling views dan parent layout, 
 tetapi lebih fleksibel dibandingkan dengan 
 RelativeLayout. 
-Ini juga lebih mudah digunakan dengan Layout Editor Android Studio.
+
 
 ### 🤳 Macam macam method dan urutan livecycle.
 - 🎇Method onCreate()
