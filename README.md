@@ -23,6 +23,9 @@ di mana semua tampilan ditata seperti sibling views dan parent layout,
 tetapi lebih fleksibel dibandingkan dengan 
 RelativeLayout. 
 
+### 💻 component App  :
+- [x]	Intent
+- [x]	Layout (Relative,Linear,Constraint)
 
 ### 🤳 Macam macam method dan urutan livecycle.
 - 🎇Method onCreate()
