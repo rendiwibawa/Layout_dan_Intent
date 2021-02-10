@@ -70,13 +70,6 @@ peristiwa ON_DESTROY. Di sinilah komponen siklus proses dapat membersihkan
 apa pun yang diperlukan sebelum Aktivitas ditutup.
 
 
-
-
-### 💻 component App  :
-- [x]	Intent
-- [x]	Layout (Relative,Linear,Constraint)
-
-
 <p align="center">
   <a <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   </a>
