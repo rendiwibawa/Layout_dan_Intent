@@ -1,7 +1,7 @@
 # Intent & Layout
 
 <a href="https://www.fsf.org">
-	<img align="right" src="https://cdn.pixabay.com/photo/2016/07/30/19/33/smartphone-1557796_1280.png">
+	<img align="right" src="https://github.com/rendiwibawa/Layout_dan_Intent/blob/master/ezgif.com-gif-maker%20(2).gif">
 </a>
 
 ### 🌱 Macam-macam Layout?
