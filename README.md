@@ -24,7 +24,7 @@ tetapi lebih fleksibel dibandingkan dengan
 RelativeLayout. 
 
 ### 💻 component App  :
-- [x]	Intent
+- [x]	Intent.
 - [x]	Layout (Relative,Linear,Constraint)
 
 ### 🤳 Macam macam method dan urutan livecycle.
